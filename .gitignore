@@ -1,0 +1,11 @@
+bin/
+obj/
+dist/
+
+.vs/
+*.user
+*.suo
+
+*.WebView2/
+recent-sites.json
+recent-sites.json.tmp
